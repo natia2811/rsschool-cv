@@ -6,7 +6,7 @@
 **Telephone:** +7-917-307-92-99  
 **LinkedIn:** [Natia Rasulova](https://www.linkedin.com/in/natia-rasulova-39670589)  
 
-![](https://github.com/natia2811/rsschool-cv/blob/gh-pages/Natia.jpg)  
+![me](./Natia.jpg)  
 
 ### Profile:
 QA engineer with 4+ years of experience in manual software testing. Excellent communication and interpersonal skills. 
